@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Счетчтик шагов</string>
+    <string name="sensor_channel_text">Шагомер</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="permission_non_granted_text">Счетчик не запущен</string>
+    <string name="permission_dialog_explanation_text">Для продолжения включите доступ к данным физической активности</string>
+    <string name="dialog_positive_button">Ok</string>
+    <string name="dialog_negative_button">Отмена</string>
+    <string name="permission_dialog_denied_text">Подсчет шагов недоступен без доступа к данным физической активности. Открыть настройки приложения?</string>
+</resources>
